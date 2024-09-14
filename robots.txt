@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anardonk.github.io/sitemap.html.gz
+Sitemap: https://anardonk.github.io/app/sitemap.html.gz
+Sitemap: https://anardonk.github.io/assets/sitemap.html.gz
+Sitemap: https://anardonk.github.io/css/sitemap.html.gz
+Sitemap: https://anardonk.github.io/includes/sitemap.html.gz
+Sitemap: https://anardonk.github.io/item/sitemap.html.gz
+Sitemap: https://anardonk.github.io/src/sitemap.html.gz
